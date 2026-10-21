@@ -9,3 +9,7 @@ streamlit
 langchain-ollama
 langserve
 fastapi
+pydantic
+langchain-chroma
+langchain_huggingface
+sentence-transformers
